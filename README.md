@@ -1,7 +1,5 @@
 <h2 align="left">👋 Hi there, I'm Nandu</h2>
 
-<h3 align="left">Product Manager | Full-Stack Web Developer</h3>
-
 <p>
   
 - 🔭 I’m currently working on **a Rails / HTML / CSS / JS project**
